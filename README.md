@@ -3,7 +3,7 @@ This template incorporates the following features:
 
 1. Generic "Grab and Go" Project where you could start coding right away, by creating swift files in the Sources folder (see [example](Sources/Template.swift)).
 2. Test environment with incorporated [Quick](https://github.com/Quick/Quick.git) and [Nible](https://github.com/Quick/Nimble.git) from the box (see [example](Tests/TemplateTests/TemplateSpec.swift)).
-3. Makefile to simplify the project generation and cleanup.
+3. [Makefile](Makefile) to simplify the project generation and cleanup.
 4. Github Workflow
 
 #### Makefile
