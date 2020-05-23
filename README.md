@@ -8,6 +8,11 @@ This template incorporates the following features:
 3. [Makefile](Makefile) to simplify the project generation and cleanup.
 4. Github Workflow
 
+#### Bootstrap
+
+1. `make init` will guide you through the initialization process.
+2. `make xcode` will generate the xcode project for you.
+
 #### Makefile
 
 Currently the list of supported commands is following:
@@ -21,7 +26,7 @@ PRs and Issues are welcome!
 
 #### Author
 
-George Maisuradze @georgmay
+George Maisuradze [@georgmay](https://github.com/georgmay)
 
 #### Support & Share love
 
