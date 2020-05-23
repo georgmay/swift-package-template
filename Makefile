@@ -6,6 +6,5 @@ clean:
 	-rm -rf .build
 	-rm Package.resolved
 
-xcode:
-	clean
+xcode: clean
 	swift package generate-xcodeproj
