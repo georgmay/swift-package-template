@@ -4,6 +4,7 @@ xc:
 
 clean:
 	-rm -rf .build
+	-rm -rf *.xcodeproj
 	-rm Package.resolved
 
 xcode: clean
