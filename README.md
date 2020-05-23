@@ -1,3 +1,5 @@
+![Swift](https://github.com/georgmay/swift-package-template/workflows/Swift/badge.svg)
+
 # Clean Swift Package Template
 This template incorporates the following features:
 
